@@ -1,11 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou a Natacha!</h1>
 <h3 align="center">Sou uma entusiasta em melhoria de processos!</h3>
 
-- 🔭 Atualmente trabalho com melhoria contínua, através dos princípios Lean [https://www.linkedin.com/in/natachabeckeralvesfonseca/](https://www.linkedin.com/in/natachabeckeralvesfonseca/)
+- 🔭 Atualmente trabalho com melhoria contínua, através da aplicação dos princípios Lean [https://www.linkedin.com/in/natachabeckeralvesfonseca/](https://www.linkedin.com/in/natachabeckeralvesfonseca/)
 
-- 🌱 Estou aprendendo Python e Django com a **WoMakersCode**
-
-- 👯 Estou colaborando e aprendendo no [Bootcamp Back-End Python e Django](https://github.com/squad-hedy-lamar)
+- 👯 Estou colaborando e aprendendo no [Bootcamp Back-End Python e Django], onde desenvolvi conhecimento em Python e Django com a **WoMakersCode** (https://github.com/squad-hedy-lamar)
 
 - 📫 Você me encontra através do e-mail **natachabkr@hotmail.com**
 
